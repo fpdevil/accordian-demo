@@ -1,6 +1,8 @@
 # FAQ dropdown using React and Tailwind
 This is a fully functional *Accordian* Component with `React.js` and `TailwindCSS`.
 
+![React FAQ Accordian!](images/faq.png "React Tailwind Accordian")
+
 In the world of web development, Accordions or collapsible panels are interactive UI components which allow for expandable and collapsible sections of the contents on a webpage.
 
 Typically, Accordions consist of a set of components like questions and answers which when clicked would reveal the associated content under the question. They provide an organized as well as a compact way to display large amounts of information in a concise manner and also they provide enhanced user experience by allowing the users to focus only on specific sections of interest and avoid overwhelming them with excessive content.
